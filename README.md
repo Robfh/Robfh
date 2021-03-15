@@ -6,6 +6,24 @@
 - MicroPython
 - Swift
 - SwiftUI
-## Currently attempting to:
-- Create a neural network in Python
-- Create a webserver in MicroPython on ESP8266
+
+### C++
+```cpp
+std::cout << "Robfh"
+```
+### Arduino C++
+```ino
+Serial.println("Robfh")
+```
+### Python
+```py
+print("Robfh")
+```
+### Swift
+```swift
+print("Robfh")
+```
+### SwiftUI
+```swift
+text("Robfh")
+```
