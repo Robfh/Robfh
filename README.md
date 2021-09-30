@@ -6,3 +6,4 @@
 - MicroPython
 - Swift
 - SwiftUI
+- Assembly
